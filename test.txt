@@ -1,3 +1,3 @@
 Hallo GitHub!
-Das ist meine erste Änderung auf GitHub!
+Diese Zeile habe ich auf meinem Computer geändert.
 Ich lade mich jetzt hoch!
