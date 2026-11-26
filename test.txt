@@ -1,2 +1,3 @@
 Hallo GitHub!
+Das ist meine erste Änderung auf GitHub!
 Ich lade mich jetzt hoch!
