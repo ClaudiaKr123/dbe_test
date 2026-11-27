@@ -10,8 +10,10 @@ jobs:
         run: ls
       - name: Gruss ausgeben
         run: echo "Mein erster Workflow läuft!"
-  pruefung:
+   pruefung:
     runs-on: ubuntu-latest
     steps:
       - name: Datum anzeigen
         run: date
+      - name: Absichtlich scheitern
+        run: exit 1
