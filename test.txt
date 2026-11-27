@@ -2,3 +2,4 @@ Hallo GitHub!
 Diese Zeile habe ich auf meinem Computer und auf GitHub geändert.
 Ich lade mich jetzt hoch!
 Kontakt: Max Mustermann
+VS Code zeigt mir Git direkt im Editor.
